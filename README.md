@@ -18,7 +18,7 @@ go install github.com/sveinungkb/notify-cli@latest
 
 ```sh
 git clone https://github.com/sveinungkb/notify-cli.git
-cd notify
+cd notify-cli
 go build -o notify .
 mv notify /usr/local/bin/   # or ~/bin/, anywhere on your PATH
 ```
