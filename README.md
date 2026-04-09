@@ -45,7 +45,7 @@ You'll be prompted for:
 1. Your Slack token (hidden input)
 2. A default recipient username (optional — press Enter to skip)
 
-Config is saved to `~/.config/notify/config.json`.
+Config is saved to `~/.notify`.
 
 ## Usage
 
